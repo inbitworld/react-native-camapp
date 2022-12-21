@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "expo-sharing": "^10.3.0",
+    "expo-updates": "~0.14.6",
+    "react-native": "0.69.6",
+    "react-native-dropdown-picker": "^5.4.2",
+    "react-native-element-dropdown": "^2.3.0"
+  }
+}
